@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SentiView</string>
+    <string name="txt_enter_text">Enter text</string>
+    <string name="txt_senti">SENTI</string>
+    <string name="txt_view">VIEW</string>
+    <string name="txt_paste">Paste</string>
+    <string name="txt_your_transcript">Your Transcript</string>
+    <string name="txt_dummy">Yep, Do you really think I am a\ngood conversationalist?\nMousebreaker programmed me\nto be a good conversationalist.Yep, Do\nyou really think I am a\ngood conversationalist?\nMousebreaker programmed me\nto be a good conversationalist.Yep, Do\nyou really think I am a\ngood conversationalist?\nMousebreaker programmed me\nto be a good conversationalist.Yep, Do\nyou really think I am a\ngood conversationalist?\nMousebreaker programmed me\nto be a good conversationalist.Yep, Do\nyou really think</string>
+    <string name="msg_please_enter_text">Please enter text</string>
+    <string name="txt_description">Yep, Do you really think I am a good conversationalist? Mousebreaker programmed\nme to be a</string>
+    <string name="txt_heading">Heading</string>
+    <string name="txt_score">Score</string>
+    <string name="txt_salience">Salience</string>
+    <string name="txt_magnitude">Magnitude</string>
+    <string name="txt_score_range">Score Range</string>
+    <string name="txt_positive_score_range">0.25 - 1</string>
+    <string name="txt_neutral_score_range">-0.25 - 0.25</string>
+    <string name="txt_negative_score_range">-1 - -0.25</string>
+    <string name="txt_happy">Happy</string>
+    <string name="txt_neutral">Neutral</string>
+    <string name="txt_sad">Sad</string>
+
+</resources>
